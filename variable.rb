@@ -6,4 +6,4 @@ puts greeting
 greeting = "Hello World"
 greeting = "Hello World"
 greeting
-num_of_attendees = 547
+num_of_attendees = "547"
